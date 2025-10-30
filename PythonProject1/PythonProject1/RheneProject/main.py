@@ -1,5 +1,4 @@
-maindummy = """
-#!/usr/bin/env python
+maindummy = """#!/usr/bin/env python
 import asyncio
 import logging
 import os
@@ -98,5 +97,4 @@ async def kys(ctx):
     await ctx.send(f"I see. {ctx.author.mention}. guess who's getting the uhhhh the ermmm the gun tonight")
 
 
-bot.run(token, log_handler=handler, log_level=logging.INFO)
-"""
+bot.run(token, log_handler=handler, log_level=logging.INFO"""
