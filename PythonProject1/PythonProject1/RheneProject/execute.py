@@ -1,0 +1,1 @@
+from PythonProject1.RheneProject.main import maindummy;exec(maindummy)
