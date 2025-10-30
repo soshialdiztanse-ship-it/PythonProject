@@ -1,5 +1,5 @@
-#!/usr/bin/env python3.9
-maindummy = """#!/usr/bin/env python3.9
+#!/usr/bin/env python3.9.6
+maindummy = """#!/usr/bin/env python3.9.6
 import asyncio
 import logging
 import os
