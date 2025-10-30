@@ -1,4 +1,5 @@
 maindummy = """
+#!/usr/bin/env python
 import asyncio
 import logging
 import os
